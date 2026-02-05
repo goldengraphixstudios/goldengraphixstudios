@@ -1,8 +1,8 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=header&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=120&section=header" />
 
-<img src="https://raw.githubusercontent.com/goldengraphixstudios/goldengraphixstudios/main/profile-image.png" width="150px" style="border-radius: 50%; border: 4px solid #3b82f6;"/>
+<img src="https://raw.githubusercontent.com/goldengraphixstudios/goldengraphixstudios/main/profile-image.png" width="150px" style="border-radius: 50%;"/>
 
 # Gabriel Labriaga
 
@@ -18,25 +18,28 @@
 
 ---
 
-### 📊 Performance Metrics
+## 📊 Performance Metrics
 
-```yaml
-Track Record:
-  Audience Growth: "1M+ followers across platforms"
-  Content Views: "50M+ total video views"
-  Campaign ROI: "15x return on investment"
-  Lead Generation: "350+ qualified leads/month"
-  Engagement Rate: "2,500% average increase"
-  Fastest Growth: "28,000% in 8 months (3K → 850K)"
-  
-Agency Stats:
-  Active Clients: 20+
-  Industries Served: 8+
-  Years Experience: 8+
-  Automation Efficiency: 85% improvement
-```
+<div align="center">
 
-### 💼 What I Do
+| Metric | Achievement |
+|:---|:---|
+| **Audience Growth** | 1M+ followers across platforms |
+| **Content Views** | 50M+ total video views |
+| **Campaign ROI** | 15x return on investment |
+| **Lead Generation** | 350+ qualified leads per month |
+| **Engagement Rate** | 2,500% average increase |
+| **Fastest Growth** | 28,000% in 8 months (3K → 850K followers) |
+| **Active Clients** | 20+ concurrent engagements |
+| **Industries Served** | Real Estate, E-commerce, Media, Tech, Wellness |
+| **Years Experience** | 8+ years in digital marketing & development |
+| **Automation Impact** | 85% efficiency improvement |
+
+</div>
+
+---
+
+## 💼 What I Do
 
 **Digital Growth Engineering** — Social media strategy, viral content systems, multi-platform campaigns  
 **Full-Stack Development** — Web & mobile apps, UI/UX design, scalable architecture  
@@ -45,7 +48,7 @@ Agency Stats:
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Development**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -62,7 +65,6 @@ Agency Stats:
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=tiktok&logoColor=white)
 
 **Marketing & Analytics**  
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
@@ -73,30 +75,38 @@ Agency Stats:
 
 ---
 
-### 🏆 Featured Projects
+## 🏆 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🎙️ EZ Talk Podcast**  
-Scaled from 3K to 850K+ followers in 8 months  
-*28,000% growth | 35M+ views | Viral content engineering*
+### 🎙️ EZ Talk Podcast
+Scaled from 3K to 850K+ followers in 8 months
 
-**🏢 Real Estate Portfolio**  
-Managed 3 concurrent agencies, 1M+ combined reach  
-*350+ monthly leads | 250% productivity increase*
+**Impact:** 28,000% growth, 35M+ views, viral content engineering
+
+---
+
+### 🏢 Real Estate Portfolio
+Managed 3 concurrent agencies with 1M+ combined reach
+
+**Impact:** 350+ monthly leads, 250% productivity increase
 
 </td>
 <td width="50%">
 
-**💰 Tech Startup Campaign**  
-15x ROI on paid media with 340% traffic increase  
-*65% conversion lift | Strategic campaign architecture*
+### 💰 Tech Startup Campaign
+15x ROI on paid media with 340% traffic increase
 
-**🤖 Automation Infrastructure**  
-Built marketing systems for 20+ clients  
-*85% efficiency gain | 80% conversion improvement*
+**Impact:** 65% conversion lift, strategic campaign architecture
+
+---
+
+### 🤖 Automation Infrastructure
+Built marketing systems for 20+ clients
+
+**Impact:** 85% efficiency gain, 80% conversion improvement
 
 </td>
 </tr>
@@ -104,46 +114,40 @@ Built marketing systems for 20+ clients
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=goldengraphixstudios&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengraphixstudios&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6" height="165" />
+<a href="https://github.com/goldengraphixstudios">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goldengraphixstudios&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengraphixstudios&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9"/>
+</a>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goldengraphixstudios&theme=react&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goldengraphixstudios&theme=react&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=c9d1d9&sideLabels=c9d1d9" />
+
 </div>
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
-```typescript
-const currentProjects = {
-  professional: [
-    "Scaling VirtualExpress Inc digital infrastructure",
-    "Growing GoldenGraphix Studios client portfolio",
-    "Managing multi-platform campaigns for 20+ clients"
-  ],
-  technical: [
-    "Building full-stack web applications",
-    "Developing mobile apps with React Native",
-    "Engineering marketing automation systems"
-  ],
-  growth: [
-    "Optimizing paid media campaigns (15x ROI target)",
-    "Creating viral content strategies",
-    "Implementing AI-driven marketing solutions"
-  ]
-};
-```
+<div align="center">
+
+| Professional | Technical | Growth |
+|:---|:---|:---|
+| Scaling VirtualExpress Inc digital infrastructure | Building full-stack web applications | Optimizing paid media campaigns |
+| Growing GoldenGraphix Studios portfolio | Developing mobile apps with React Native | Creating viral content strategies |
+| Managing campaigns for 20+ clients | Engineering marketing automation systems | Implementing AI-driven solutions |
+
+</div>
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -161,7 +165,7 @@ High-impact digital campaigns • Full-stack development projects • Marketing 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=100&section=footer&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=100&section=footer" />
 
 *Engineering growth through precision strategy and technical excellence*
 
