@@ -33,6 +33,7 @@
 
 **Web Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -131,20 +132,6 @@ Paid media management • Conversion engineering • Analytics • Campaign stra
 **Challenge:** Scale client operations without proportional cost increase  
 **Solution:** Custom chatbots, workflow automation, CRM integration  
 **Results:** 85% efficiency improvement • 80% conversion increase • Fully scalable systems
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=goldengraphixstudios&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2937&cache_seconds=1800" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengraphixstudios&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2937&cache_seconds=1800" height="165" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goldengraphixstudios&theme=default&hide_border=true&background=ffffff&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideNums=1f2937&currStreakNum=1f2937&dates=1f2937&sideLabels=1f2937" alt="GitHub Streak" />
-
-</div>
 
 ---
 
