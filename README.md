@@ -12,7 +12,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=goldengraphixstudios&color=2563eb&style=flat-square)
 
-**Legazpi City, Philippines**
+**Cruzada, Legazpi City, Albay, Philippines**
 
 </div>
 
@@ -20,21 +20,77 @@
 
 ---
 
-## Performance Metrics
+## Technical Skills
 
-<div align="center">
+**Programming Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
-• **1M+ followers** across social media platforms  
-• **50M+ video views** through viral content engineering  
-• **15x ROI** on paid advertising campaigns  
-• **350+ qualified leads** generated monthly for clients  
-• **2,500% average engagement** increase across campaigns  
-• **28,000% growth** achieved in 8 months (3K → 850K followers)  
-• **20+ active clients** with concurrent management  
-• **8+ years** of professional experience  
-• **85% efficiency improvement** through automation systems  
+**Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-</div>
+**Mobile App Development**  
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**UI/UX Design**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+
+**Backend & Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Design & Video Editing**  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square&logo=tiktok&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+**Marketing Automation & CRM**  
+![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6B4FBB?style=flat-square&logo=integromat&logoColor=white)
+
+**Advertising Platforms**  
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+![Meta Ads](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat-square&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
+![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white)
+![LinkedIn Ads](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
+
+---
+
+## Key Achievements
+
+• Grew social media accounts to **1M+ combined followers** across multiple platforms
+
+• Scaled podcast social presence by **28,000%** (3K to 850K+ followers in 8 months)
+
+• Achieved **15x ROI** on paid advertising campaigns with 340% traffic increase
+
+• Generated **50M+ total video views** through viral content strategy
+
+• Increased average client engagement by **2,500%** through strategic content optimization
+
+• Generated **350+ qualified leads monthly** for real estate clients through multi-channel campaigns
+
+• Built marketing automation systems increasing **conversion rates by 80%** and efficiency by 85%
+
+• Founded and scaled digital marketing agency serving **20+ clients** with consistent growth results
 
 ---
 
@@ -51,39 +107,6 @@ CRM systems • Chatbot development • Workflow optimization • Lead generatio
 
 **Revenue Optimization**  
 Paid media management • Conversion engineering • Analytics • Campaign strategy
-
----
-
-## Technical Skills
-
-**Development**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Design & Creative**  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
-
-**Marketing & Analytics**  
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Meta Ads](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat-square&logo=meta&logoColor=white)
-![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
-![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 ---
 
@@ -111,6 +134,18 @@ Paid media management • Conversion engineering • Analytics • Campaign stra
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=goldengraphixstudios&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2937&cache_seconds=1800" height="165" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengraphixstudios&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2937&cache_seconds=1800" height="165" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=goldengraphixstudios&theme=default&hide_border=true&background=ffffff&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideNums=1f2937&currStreakNum=1f2937&dates=1f2937&sideLabels=1f2937" alt="GitHub Streak" />
+
+</div>
+
 ---
 
 ## Current Focus
@@ -134,7 +169,7 @@ Paid media management • Conversion engineering • Analytics • Campaign stra
 
 ## Professional Background
 
-**Founder & Lead Strategist** — GoldenGraphix Studios (2017 - Present)  
+**Founder & Lead Digital Marketing Specialist** — GoldenGraphix Studios (2017 - Present)  
 Full-service digital marketing agency serving 20+ clients across real estate, e-commerce, media, wellness, and technology sectors
 
 **Digital Marketing Specialist & Full-Stack Developer** — VirtualExpress Inc (2023 - Present)  
