@@ -111,18 +111,6 @@ Paid media management • Conversion engineering • Analytics • Campaign stra
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=goldengraphixstudios&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&icon_color=2563eb&text_color=1f2937&cache_seconds=1800" height="165" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldengraphixstudios&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=1f2937&cache_seconds=1800" height="165" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goldengraphixstudios&theme=default&hide_border=true&background=ffffff&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideNums=1f2937&currStreakNum=1f2937&dates=1f2937&sideLabels=1f2937" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ## Current Focus
